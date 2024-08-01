@@ -9,6 +9,7 @@ media= 0.0
 
 n1= float(input("digite a prmeira nota: "))
 n2= float(input("digite a segunda nota: "))
+n2= float(input("digite a segunda nota: "))
 
 #calculo
 media=(n1+n2) / 2
