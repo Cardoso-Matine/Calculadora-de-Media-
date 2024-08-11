@@ -7,9 +7,9 @@ n1=n2=0.0 # duas variaveis sem nota
 
 media= 0.0
 
-n1= float(input("digite a prmeira nota: "))
-n2= float(input("digite a segunda nota: "))
-n2= float(input("digite a segunda nota: "))
+n1= float(input("digite a prmeira not: "))
+n2= float(input("diite a segnda nota: "))
+
 
 #calculo
 media=(n1+n2) / 2
@@ -22,7 +22,7 @@ elif (media >=5):
   # >=5 n passando da media 7
 
 else:
-	print('reprovado')
+	print('reprovdo')
 	
 print('sua media é {}'. format (media))# a presentamos a media desse jeito
 
