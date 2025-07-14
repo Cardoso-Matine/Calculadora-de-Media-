@@ -1,2 +1,2 @@
-# CALCULADORA DE MEDIA 
-Com esse projetinho de treinamento feito em python voce pode calcula a media de um determinado aluno
+# MEDIA CALCULATOR
+With this little training project made in python you can calculate the average of a given student
